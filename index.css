@@ -1,15 +1,9 @@
 
-#title{
-    background-color: aquamarine;
-    text-align: center;
-}
-
 #clockContainer{
     margin: auto;
     position: relative;
     background-image: url("./5054.png");
     background-size: 100%;
-    border: 2px solid red;
     height: 40vw;
     width: 40vw;
 }

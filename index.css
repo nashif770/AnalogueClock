@@ -19,6 +19,7 @@
     border-radius: 10px;
     bottom: 10%;
     background: black;
+    transform-origin: bottom;
 }
 
 #hour{
@@ -41,6 +42,6 @@
     height: 33%;
     left: 48.90%;
     opacity: 0.6;
-    top: 18%;
+    top: 17%;
     /* display: none; */
 }
